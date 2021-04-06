@@ -1,9 +1,11 @@
 ## Welcome! This is Challenge Part 1. 
 
 
-The purpose of this site is to check your comfort with using GitHub. You will be creating a pull request to this repository. Check https://github.com/cyberwizard1001/workshop-practise/tree/main/GitHub/CONTEST.md for further details!
+The purpose of this site is to test your level of comfort with using GitHub. You will be creating a pull request to this repository. Check [here](https://github.com/cyberwizard1001/workshop-practise/tree/main/GitHub/CONTEST.md) for further details!
 
-You will need markdown to be able to edit this file while maintaining readability. Here's a short recap: 
+Scroll down to the end to complete the challenge.
+
+You will need to know a bit of markdown to be able to edit this file while maintaining readability. Here's a short overview: 
 
 
 ### Markdown
