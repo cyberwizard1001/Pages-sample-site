@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome! This is Challenge Part 1. 
 
-You can use the [editor on GitHub](https://github.com/cyberwizard1001/cyberwizard1001.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The purpose of this site is to check your comfort with using GitHub. You will be creating a pull request to this repository. Check https://github.com/cyberwizard1001/workshop-practise/tree/main/GitHub/CONTEST.md for further details!
+
+You will need markdown to be able to edit this file while maintaining readability. Here's a short recap: 
+
 
 ### Markdown
 
@@ -28,10 +30,15 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyberwizard1001/cyberwizard1001.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Add your name here!
 
-### Support or Contact
+> Add your name below this message as a bulleted list and save the file. Then, go ahead and create a pull request!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> Successful creation of a pull request will fetch you points.
+
+A sample has been done for you. After adding, commit this change with the comment "ADDED NAME" where NAME is your name. 
+
+- Nirmal Karthikeyan
+
+
