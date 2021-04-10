@@ -8,20 +8,12 @@ Scroll down to the end to complete the challenge.
 You will need to know a bit of markdown to be able to edit this file while maintaining readability. Here's a short overview: 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Harish Kumar V
 
-- Harish Kumar
+- Harish Kumar(CB.EN.U4CSE20025)
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Add your name here!
