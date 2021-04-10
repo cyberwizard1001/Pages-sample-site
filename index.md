@@ -41,6 +41,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 A sample has been done for you. After adding, commit this change with the comment "ADDED NAME" where NAME is your name. 
 
-- Nirmal Karthikeyan
+- Deepak sai pendyala
 
 
