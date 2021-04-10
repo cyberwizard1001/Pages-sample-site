@@ -36,10 +36,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Add your name here!
 
 > Add your name below this message as a bulleted list and save the file. Then, go ahead and create a pull request!
--Keerthivasan C
+
 
 > Successful creation of a pull request will fetch you points.
 
+ -Keerthivasan C
 A sample has been done for you. After adding, commit this change with the comment "ADDED NAME" where NAME is your name. 
 
 - Nirmal Karthikeyan
