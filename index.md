@@ -21,8 +21,11 @@ You will need to know a bit of markdown to be able to edit this file while maint
 
 > Add your name below this message as a bulleted list and save the file. Then, go ahead and create a pull request!
 
+
 > Successful creation of a pull request will fetch you points.
 
+- Keerthivasan C
+ 
 A sample has been done for you. After adding, commit this change with the comment "ADDED NAME" where NAME is your name. 
 
 - Deepak sai pendyala
