@@ -29,6 +29,8 @@ You will need to know a bit of markdown to be able to edit this file while maint
 
 > Successful creation of a pull request will fetch you points.
 
+- Kishore V
+
 - Keerthivasan C
  
 A sample has been done for you. After adding, commit this change with the comment "ADDED NAME" where NAME is your name. 
